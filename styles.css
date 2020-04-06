@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.container{
+    margin: 0 35%;
+}
+.form-group {
+    text-align: left;
+    margin: 10px 0;
+    font-weight: 600;
+}
+input, option, textarea{
+    margin: 5px 0;
+}
+.button-block {
+    text-align: center;
+}
+.button {
+    background-color: lightgreen;
+}
